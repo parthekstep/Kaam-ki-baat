@@ -2,7 +2,7 @@
 
 **A multilingual voice AI agent that matches blue-collar workers to jobs across India.**
 
-Kaam Ki Baat ("Talk of Work") conducts natural phone conversations in Hindi and Kannada to understand a worker's skills, experience, and preferences, then surfaces relevant job openings. It is built as a reusable capability on the [ONEST](https://onest.network/) / [Beckn](https://becknprotocol.io/) open network, designed to bring job discovery to workers who are more comfortable speaking than typing.
+Kaam Ki Baat ("Talk of Work") conducts natural phone conversations in Hindi and Kannada to understand a worker's skills, experience, and preferences, then surfaces relevant job openings. It is built as a reusable capability on the [ONEST](https://onest.network/) open network, designed to bring job discovery to workers who are more comfortable speaking than typing.
 
 ---
 
